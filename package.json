@@ -1,0 +1,19 @@
+{
+  "name": "mise-place-d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "leaflet": "^1.6.0",
+    "leaflet-defaulticon-compatibility": "^0.1.1"
+  }
+}
